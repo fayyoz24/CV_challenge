@@ -1,1 +1,1 @@
-# OpenCV_challenge
+# CV_challenge
